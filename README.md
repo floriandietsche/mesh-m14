@@ -1,5 +1,5 @@
 # M14: CATer
 # from people to people
 # Online-Marktplatz zur Vermittlung von Einkaufsmöglichkeiten in Echtzeit
-Präsentation, Erklärvideo und App-Prototyp liegen bereit
+Präsentation (als zip komprimiert), Erklärvideo und App-Prototyp liegen bereit
 # CATer: Florian Dietsche, Lukas Neufeld, Lukas Melhus, Elisabet Hase
