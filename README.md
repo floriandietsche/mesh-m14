@@ -1,5 +1,5 @@
-# Titel der Solution
-# Slogan der Solution
-# Kurzbeschreibung der Solution und Präsentation mit den Schlüsselbotschaften
-Solution / Prototyp Link / Dokumentation / Beschreibung
-# Name des Teams und der einzelnen Teammitglieder
+# M14: CATer
+# from people to people
+# Online-Marktplatz zur Vermittlung von Einkaufsmöglichkeiten in Echtzeit
+Präsentation, Erklärvideo und App-Prototyp liegen bereit
+# CATer: Florian Dietsche, Lukas Neufeld, Lukas Melhus, Elisabet Hase
